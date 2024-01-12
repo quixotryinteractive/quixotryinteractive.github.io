@@ -66,8 +66,8 @@ body {
 .quixotry-interactive {
   width: 100%;
   text-align: center;
-  padding-bottom: 18px;
-  font-size: 55px;
+  padding-bottom: 0.8vw;
+  font-size: 3.0vw;
   color: #333;
 }
 
@@ -80,7 +80,7 @@ body {
 .ux-ixd {
   width: 100%;
   text-align: center;
-  font-size: 30px;
+  font-size: 1.8vw;
   color: #555;
 }
 
